@@ -1,2 +1,2 @@
 # snu-fira2017
-practice
+- Review the Course which is AI & Improving python skills
